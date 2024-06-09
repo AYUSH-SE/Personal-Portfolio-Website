@@ -3,6 +3,7 @@
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences in web development. Built using HTML, CSS, and JavaScript, this website serves as a platform to introduce myself, display my work, and provide ways to get in touch.
 
 Features
+
 Homepage: A brief introduction to who I am and what I do.
 
 Projects: Highlights of my recent projects, with links to their live demos or GitHub repositories.
