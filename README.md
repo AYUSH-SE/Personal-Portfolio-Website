@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-1. Clone the repo - git clone https://github.com/yourusername/your-repo-name.git
+1. Clone the repo - git clone https://github.com/AYUSH-SE/Personal-Portfolio-Website.git
 2. Open `index.html` in your browser to view the website
 
 ## Usage
